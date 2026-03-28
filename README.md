@@ -38,6 +38,7 @@ pip install pyinstaller
 
 ```bash
 pyinstaller -F -w extractor.py
+
 打包完成后，独立的可执行文件将生成在 dist 目录下。
 
 📄 许可证
